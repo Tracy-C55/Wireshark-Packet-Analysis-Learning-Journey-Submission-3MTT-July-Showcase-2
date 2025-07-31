@@ -55,7 +55,7 @@ A 3-minute walkthrough where I:
 2. Apply filters to analyze traffic
 3. Explain findings and the learning process
 
-📺 Watch Video [Here](#)
+📺 Watch Video [[Here](https://www.loom.com/share/023ee98cf0d14bd49210c30392c754ab)](#)
 
 ## 🙌 Acknowledgments
 Special thanks to:
@@ -66,7 +66,8 @@ Special thanks to:
 
 ## 📲 Connect
 🧕🏽 Tracy Nworie  
-🔗 LinkedIn: [here](https://www.linkedin.com/in/tracy-nworie-8abb806a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BscV3Gz9%2FScSbBxg8jaOBSg%3D%3D)  
+🔗 LinkedIn: [[here](https://www.linkedin.com/posts/tracy-nworie-8abb806a_3mttlearningcommunity-my3mtt-cybersecurity-activity-7356708162931933185-g-lT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA7EcQMBH92Q2w6NEU4vjKyNrT4hCE1Oqew) 
+
 📧 Email: [tracycelestina07@gmail.com]  
 
 >  _“Every packet tells a story. Learning to read that story is the first step toward cyber resilience.”_
