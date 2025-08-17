@@ -67,6 +67,7 @@ Special thanks to:
 ## 📲 Connect
 🧕🏽 Tracy Nworie  
 🔗 LinkedIn: [[here](https://www.linkedin.com/posts/tracy-nworie-8abb806a_3mttlearningcommunity-my3mtt-cybersecurity-activity-7356708162931933185-g-lT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA7EcQMBH92Q2w6NEU4vjKyNrT4hCE1Oqew) 
+
 📧 Email: [tracycelestina07@gmail.com]  
 
 >  _“Every packet tells a story. Learning to read that story is the first step toward cyber resilience.”_
